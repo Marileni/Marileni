@@ -24,7 +24,7 @@ My name is Marileni -->
 
 <h4 align="center"><samp>Connect with me</samp></h4>
 <p align="center">
-  <a href="www.linkedin.com/in/marileni-sinioraki">
+  <a href="www.linkedin.com/in/marileni-sinioraki"  target="_blank">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a>
 <!--   <a href="https://www.discord.com/users/_paracosm">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/ba7a7fb5-fe94-44e8-9962-a54269172b4e"></a>
