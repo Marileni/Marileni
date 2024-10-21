@@ -3,6 +3,12 @@ My name is Marileni -->
 
 <h1 align="center"><samp>Hi there👋, I'm Marileni </samp></h1>
 <h3 align="center"><samp>Data Scientist</samp></h3>
+
+<p align="center">
+- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
+- 🌱 I’m currently learning AI and Machine Learning <br>
+- 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
+</p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>-->
 
 <!-- 
@@ -32,13 +38,7 @@ My name is Marileni -->
 
 
 <hr>
-<p align="center">
-- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
-- 🌱 I’m currently learning AI and Machine Learning <br>
-- 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
-</p>
 
-<hr>
 | <samp>Languages</samp> | <samp>Frameworks</samp>  | <samp>IDEs</samp>  | <samp>Tools</samp> | <samp>OS</samp>
 | ------------- | ------------- | -------------  | ------------- | ------------- |
 | [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,flask)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
