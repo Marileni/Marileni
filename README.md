@@ -1,17 +1,19 @@
 <!-- ## Hi there 👋
 My name is Marileni -->
 
-<h1 align="center"><samp>Hi 👋, I'm Marileni </samp></h1>
-<h3 align="center"><samp>Full-Stack Developer</samp></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>
+<h1 align="center"><samp>Hi there👋, I'm Marileni </samp></h1>
+<h3 align="center"><samp>Data Scientist</samp></h3>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>-->
 
+<!-- 
 <p align="center">
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding" width="45%" border="0" style="max-width: 100%;">
 </p>
+-->
 
 <p align="center">
-📫 <b><samp>How to reach me:</b> <a href = "mailto: chrisostomaki.eva@gmail.com">sinioraki.marileni@gmail.com</samp></a>
-<br>😄 <samp><b>Pronouns:</b> she/her </samp>
+📫 <b><samp>How to reach me:</b> <a href = "mailto: sinioraki.marileni@gmail.com">sinioraki.marileni@gmail.com</samp></a>
+<!-- <br>😄 <samp><b>Pronouns:</b> she/her </samp> -->
 </p>
 
 <h4 align="center"><samp>Connect with me</samp></h4>
@@ -36,30 +38,26 @@ My name is Marileni -->
 | ------------- | ------------- | -------------  | ------------- | ------------- |
 | [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,flask)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
 
-
-## 📅 <samp>Hobbies</samp>
-- <samp>Programming</samp>
-- <samp>Reading books</samp>
-- <samp>Banging my head to good music</samp>
-- <samp>Sleeping</samp>
+<p align="center">
+- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino 
+- 🌱 I’m currently learning AI and Machine Learning
+- 👯 I’m looking to collaborate on different projects in the field of Data Science
+</p>
 
 <hr>
 
 | <samp>Joke of the day</samp> | <samp>Stats</samp> |
 | ------------- | -------------  |
-| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eva-Chris&show_icons=true&theme=radical) |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marileni&show_icons=true&theme=radical) |
 
 <!--
 **Marileni/Marileni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
