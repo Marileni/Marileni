@@ -15,8 +15,8 @@ My name is Marileni -->
 
 <p align="center">
   - 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
-  - 🌱 I’m currently learning AI and Machine Learning <br>
   - 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
+  - 🌱 I’m currently learning AI and Machine Learning <br>
 </p>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>-->
