@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋
 My name is Marileni -->
 
-<h1 align="center"><samp>Hi there👋, I'm Marileni</samp></h1>
+<h1 align="center"><samp>Hi there👋 I'm Marileni</samp></h1>
 
 <h3 align="center"><samp>Data Scientist</samp></h3>
 
