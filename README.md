@@ -14,7 +14,7 @@ My name is Marileni -->
 <!-- </div> -->
 
 <p align="center">
-  - 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
+  - 🔭 I’m currently pursuing my master's degree in Data Science and Engineering at Politecnico di Torino <br>
   - 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
   - 🌱 I’m currently learning AI and Machine Learning <br>
 </p>
