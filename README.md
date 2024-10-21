@@ -20,14 +20,14 @@ My name is Marileni -->
 <p align="center">
   <a href="www.linkedin.com/in/marileni-sinioraki">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="www.linkedin.com/in/marileni-sinioraki"></a>
-<!--    <a href="https://www.discord.com/users/_paracosm">
+  <a href="https://www.discord.com/users/_paracosm">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/ba7a7fb5-fe94-44e8-9962-a54269172b4e"></a>
   <a href="https://steamcommunity.com/id/paracosm_/">
     <img alt="Steam" title="Steam" height="48" width="48" src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/d1fd92b1-4df6-4974-adaa-71f1e9fadd31"></a>
   <a href="https://www.goodreads.com/user/show/85504188-paracosm">
     <img alt="Goodreads" title="Goodreads" height="48" width="48" src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/51b5bfce-22c0-4120-81a4-9ca6cddff392"></a>
   <a href="https://open.spotify.com/user/prpnyh226d2judbq0fnpzgod2?si=4e3188c246294181">
-    <img alt="Spotify" title="Spotify" height="48" width="48" src="https://cdn.simpleicons.org/spotify"></a>  -->
+    <img alt="Spotify" title="Spotify" height="48" width="48" src="https://cdn.simpleicons.org/spotify"></a>
 </p>
 
 
@@ -39,9 +39,9 @@ My name is Marileni -->
 | [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,flask)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
 
 <p align="center">
-- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino 
-- 🌱 I’m currently learning AI and Machine Learning
-- 👯 I’m looking to collaborate on different projects in the field of Data Science
+- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
+- 🌱 I’m currently learning AI and Machine Learning <br>
+- 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
 </p>
 
 <hr>
