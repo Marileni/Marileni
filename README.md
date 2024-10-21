@@ -51,7 +51,7 @@ My name is Marileni -->
 
 | <samp>Languages</samp> | <samp>Frameworks</samp>  | <samp>IDEs</samp>  | <samp>Tools</samp> | <samp>OS</samp>
 | ------------- | ------------- | -------------  | ------------- | ------------- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,pytorch,tensorflow)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,py,js,ts,java,cpp,c&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=angular,pytorch,tensorflow,net)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=figma,git,postman)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) <img src="https://github.com/Eva-Chris/Eva-Chris/assets/25487874/c807cb7b-4d26-4149-b9ce-74eaf85799c6" width="48px"> |
 
 
 <hr>
