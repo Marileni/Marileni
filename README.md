@@ -5,13 +5,20 @@ My name is Marileni -->
 
 <h3 align="center"><samp>Data Scientist</samp></h3>
 
-<div style="text-align: center;">
-   <div style="display: inline-block; text-align: left;">
+<!--<div style="text-align: center;"> -->
+<!--    <div style="display: inline-block; text-align: left;">
 - 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
 - 🌱 I’m currently learning AI and Machine Learning <br>
 - 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
-   </div>
+   </div> -->
+<!-- </div> -->
+
+<div align="center">
+  <p style="margin: 0;">🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino</p>
+  <p style="margin: 0;">🌱 I’m currently learning AI and Machine Learning</p>
+  <p style="margin: 0;">👯 I’m looking to collaborate on different projects in the field of Data Science</p>
 </div>
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>-->
 
 <!-- 
