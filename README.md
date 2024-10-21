@@ -1,16 +1,16 @@
 <!-- ## Hi there 👋
 My name is Marileni -->
 
-<h1 align="center"><samp>Hi there👋 </samp></h1>
-<h2 align="center"><samp>I'm Marileni </samp></h2>
+<h1 align="center"><samp>Hi there👋, I'm Marileni</samp></h1>
 
 <h3 align="center"><samp>Data Scientist</samp></h3>
 
-<p align="center">
-- 🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino <br>
-- 🌱 I’m currently learning AI and Machine Learning <br>
-- 👯 I’m looking to collaborate on different projects in the field of Data Science <br>
-</p>
+<div align="center">
+  <span>🔭 I’m currently studying Data Science and Engineering at Politecnico di Torino</span> <br>
+  <span>🌱 I’m currently learning AI and Machine Learning</span> <br>
+  <span>👯 I’m looking to collaborate on different projects in the field of Data Science</span>
+</div>
+
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=eva-chris&label=Profile%20views&color=0e75b6&style=flat" alt="eva-chris" /> </p>-->
 
 <!-- 
