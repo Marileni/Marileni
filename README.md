@@ -3,7 +3,7 @@ My name is Marileni -->
 
 <h1 align="center"><samp>Hi there👋 I'm Marileni</samp></h1>
 
-<h3 align="center"><samp>Data Scientist</samp></h3>
+<h3 align="center"><samp>Data Scientist and Engineer</samp></h3>
 
 <!--<div style="text-align: center;"> -->
 <!--    <div style="display: inline-block; text-align: left;">
